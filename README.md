@@ -8,3 +8,6 @@ von Cosima und Friederike, 12bc
 #### Aufbau
 #### [Arbeitstagebuch](https://github.com/cosima-friederike/informatik-c-f#informatik-projekt-cosima--friederike)
 
+## Programm
+## Projektvorstellung
+## Aufbau
