@@ -6,5 +6,5 @@ von Cosima und Friederike, 12bc
 #### Programm
 #### Projektvorstellung
 #### Aufbau
-#### Arbeitstagebuch
+#### [Arbeitstagebuch](https://github.com/cosima-friederike/informatik-c-f#informatik-projekt-cosima--friederike)
 
