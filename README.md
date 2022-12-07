@@ -5,7 +5,7 @@ von Cosima und Friederike, 12bc
 ## Inhaltsverzeichnis
 [Projektvorstellung](https://github.com/cosima-friederike/Projektseite/blob/main/README.md#projektvorstellung-1)
 
-{Programm](https://github.com/cosima-friederike/Projektseite/blob/main/README.md#programm)
+[Programm](https://github.com/cosima-friederike/Projektseite/blob/main/README.md#programm)
 
 [Aufbau](https://github.com/cosima-friederike/Projektseite/blob/main/README.md#aufbau-1)
 
