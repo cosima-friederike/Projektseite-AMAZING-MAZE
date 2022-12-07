@@ -3,8 +3,8 @@
 von Cosima und Friederike, 12bc
 
 ## Inhaltsverzeichnis
-[[Projektvorstellung](https://github.com/cosima-friederike/Projektseite/blob/main/README.md#projektvorstellung-1)
-](https://github.com/cosima-friederike/Projektseite/blob/main/README.md#projektvorstellung)
+[Projektvorstellung](https://github.com/cosima-friederike/Projektseite/blob/main/README.md#projektvorstellung-1)
+(https://github.com/cosima-friederike/Projektseite/blob/main/README.md#projektvorstellung)
 
 [Programm](https://github.com/cosima-friederike/Projektseite/blob/main/README.md#programm-1)
 
