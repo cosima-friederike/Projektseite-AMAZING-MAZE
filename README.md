@@ -35,6 +35,9 @@ Der Sprite Finish stellt das Ziel des Spiels dar, das der Player 1 erreichen mus
 
 ![Finish](https://user-images.githubusercontent.com/111414772/207535843-2e8d638b-5697-4a52-86d7-a775c5c93c1d.png)
 #### Blende
+Die Blende ist durch die Funktion "point towards Player 1" und die gleichen Bewegungsbefehle durch die Pfeiltasten, wie der Player 1, so programmiert, dass die diesem folgt, damit der Spieler sowie seine unmittelbare Umgebung immer sichtbar sind. Die hauptsächliche Aufgabe der Blende ist es, den Schwierigkeitsgrad des Spiels zu erhöhen, damit der Spieler nicht das ganze Labyrinth und das Ziel sieht. Wie beim Player 1 gibt es den Befehl, dass sich die Blende zu Beginn des Spieles im Center befindet.
+
+![Blende](https://user-images.githubusercontent.com/111414772/207539407-814cd143-6cb2-4306-9018-9e145e0d5c95.png)
 #### Start
 #### Screen
 #### Levelauswahl
