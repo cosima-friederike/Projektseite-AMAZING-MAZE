@@ -7,7 +7,7 @@ von Cosima und Friederike, 12bc
 
 [Programm](https://github.com/cosima-friederike/Projektseite/blob/main/README.md#programm)
 
-[Aufbau](https://github.com/cosima-friederike/Projektseite/blob/main/README.md#aufbau)
+[Aufbau und Code](https://github.com/cosima-friederike/Projektseite/blob/main/README.md#aufbau)
 
 [Arbeitstagebuch](https://github.com/cosima-friederike/informatik-c-f#informatik-projekt-cosima--friederike)
 
@@ -18,7 +18,7 @@ Schafft es der Spieler nun seinen "Player 1" ganz durch das Labyrinth zu führen
 Insgesamt besteht das Spiel aus drei Levels, die durch zunehmende Schwierigkeitsgrade voneinander ausgemacht werden können, wie zum Beispiel durch breiterer oder schmalere Wege und mehr oder weniger Verzweigungen. 
 ## Programm
 Wir haben uns für das Entwickeln unseres Spieles für das Programm Snap! entschieden. Dies ist gut für Anfänger, wie uns, geeignet, da es durch eine einfache Blockstruktur aufgebaut ist. Man entwickelt nicht selber einen Code, sondern arbeitet mit dem vorgegebenen Quellcode, welcher sich in den Blöcken befindet. Somit werden keine besonderen Vorkentnisse benötigt. Zudem ist das Programm durch die Blockstruktur sehr übersichtlich und problemlos den eigenen Ideen anzupassen. Daher können Fehler oder ungewünschte Programmierungen einfach vermieden und schnell behoben werden.
-## Aufbau
+## Aufbau und Code
 ### Sprites
 Für AMAZING MAZE haben wir sieben  verschiedene Sprites erstellt: Player 1, Labyrinth, Finish, Blende, Start, Screen und das Level. Da es drei Spiellevels gibt, haben wir für das zweite und dritte Level jeweils ein neues Labyrinth, Finish und natürlich die Levelauswahl programmiert. Die Sprites, die nur für ein spezifisches Level benötigt werden, sind mit der Funktion "hide" dabei so programmiert, dass sie von der Spielfläche scheinbar verschwinden und die Funktionen ausgestellt sind, wenn ein anderes Level gewählt wurde. 
 
