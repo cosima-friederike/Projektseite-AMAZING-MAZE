@@ -1,5 +1,5 @@
-# Projektseite
-## Amazing Maze
+# Amazing Maze
+### Projektseite
 
 von Cosima und Friederike, 12bc
 
