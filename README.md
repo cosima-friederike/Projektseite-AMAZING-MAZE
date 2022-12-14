@@ -47,3 +47,6 @@ Dies ist der Hintergrund der Sprites Start und Level und wird bei Auswahl eines 
 
 ![Screen](https://user-images.githubusercontent.com/111414772/207540457-46f179e5-ff6b-4da2-abdc-e902e2b130ac.png)
 #### Levelauswahl
+Die Levelauswahl besteht aus den drei Sprites Level 1, 2 und 3. Diese werden gezeigt, wenn der Start aktiviert wird. Dann kann sich der Spieler für ein Level entscheiden, indem er mit dem Mauscursor darauf klickt. Daraufhin werden alle, zu dem Level gehörenden Sprites, gezeigt, die anderen werden versteckt. 
+
+![Levels](https://user-images.githubusercontent.com/111414772/207542083-d20aec4a-5cf6-47b0-ac69-7508af14f603.png)
