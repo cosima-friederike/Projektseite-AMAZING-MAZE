@@ -23,7 +23,7 @@ Wir haben uns für das Entwickeln unseres Spieles für das Programm Snap! entsch
 Für AMAZING MAZE haben wir sieben  verschiedene Sprites erstellt: Player 1, Labyrinth, Finish, Blende, Start, Screen und das Level. Da es drei Spiellevels gibt, haben wir für das zweite und dritte Level jeweils ein neues Labyrinth, Finish und natürlich die Levelauswahl programmiert. Die Sprites, die nur für ein spezifisches Level benötigt werden, sind mit der Funktion "hide" dabei so programmiert, dass sie von der Spielfläche scheinbar verschwinden und die Funktionen ausgestellt sind, wenn ein anderes Level gewählt wurde. 
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/111414772/207529351-7198e1c0-3428-4c94-a283-51b433e2d9de.png)
-Auf dem Bild sehen Sie die Sprites Labyrinth, Player 1 und Finish. Die Blende, die eigentlich bei jedem Level erscheint, haben wir für das Foto ausgestellt, um das Labyrinth und die anderen Sprites besser zeigen zu können.
+Auf dem Bild sehen Sie die Sprites Labyrinth, Player 1 und Finish. Die Blende, die eigentlich bei jedem Level erscheint, haben wir für das Foto ausgestellt, um das Labyrinth und die anderen Sprites besser zeigen zu können. Zusätzlich haben wir ein Foto für den Hintergrund des Labyrinths eingefügt, um die Spieloptik interessanter und das Spielen schwieriger zu gestalten.
 #### Player 1
 Dieser Sprite stellt die Spielfigur des Spielers dar und wird mit Hilfe der vier Pfeiltasten gesteuert. Zu Beginn jedes Spiels, befindet sich der Sprite im Center des Labyrinths. Damit der Player 1 automatisch zum Startpunkt gelangt, wenn dieser die Labyrinthwände berührt, haben wir einen broadcast mit dem Befehl center erstellt. Diese Funktion gibt es für jeden Level einzeln.
 
