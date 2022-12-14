@@ -10,7 +10,7 @@ von Cosima und Friederike, 12bc
 
 [Aufbau und Code](https://github.com/cosima-friederike/Projektseite-AMAZING-MAZE/blob/main/README.md#aufbau-und-code)
 
-  - Sprites
+  * Sprites
 
 [Arbeitstagebuch](https://github.com/cosima-friederike/informatik-c-f#informatik-projekt-cosima--friederike)
 
