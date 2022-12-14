@@ -8,7 +8,7 @@ von Cosima und Friederike, 12bc
 
 [Programm](https://github.com/cosima-friederike/Projektseite-AMAZING-MAZE/blob/main/README.md#programm)
 
-[Aufbau und Code](https://github.com/cosima-friederike/Projektseite/blob/main/README.md#aufbau-und-code)
+[Aufbau und Code](https://github.com/cosima-friederike/Projektseite-AMAZING-MAZE/blob/main/README.md#aufbau-und-code)
   
 [Sprites](https://github.com/cosima-friederike/Projektseite/blob/main/README.md#sprites)
 
