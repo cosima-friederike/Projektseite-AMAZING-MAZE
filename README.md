@@ -9,8 +9,6 @@ von Cosima und Friederike, 12bc
 [Programm](https://github.com/cosima-friederike/Projektseite-AMAZING-MAZE/blob/main/README.md#programm)
 
 [Aufbau und Code](https://github.com/cosima-friederike/Projektseite-AMAZING-MAZE/blob/main/README.md#aufbau-und-code)
-  
-[Sprites](https://github.com/cosima-friederike/Projektseite/blob/main/README.md#sprites)
 
 [Arbeitstagebuch](https://github.com/cosima-friederike/informatik-c-f#informatik-projekt-cosima--friederike)
 
@@ -22,7 +20,6 @@ Insgesamt besteht das Spiel aus drei Levels, die durch zunehmende Schwierigkeits
 ## Programm
 Wir haben uns für das Entwickeln unseres Spieles für das Programm Snap! entschieden. Dies ist gut für Anfänger, wie uns, geeignet, da es durch eine einfache Blockstruktur aufgebaut ist. Man entwickelt nicht selber einen Code, sondern arbeitet mit dem vorgegebenen Quellcode, welcher sich in den Blöcken befindet. Somit werden keine besonderen Vorkentnisse benötigt. Zudem ist das Programm durch die Blockstruktur sehr übersichtlich und problemlos den eigenen Ideen anzupassen. Daher können Fehler oder ungewünschte Programmierungen einfach vermieden und schnell behoben werden.
 ## Aufbau und Code
-### Sprites
 Für AMAZING MAZE haben wir sieben  verschiedene Sprites erstellt: Player 1, Labyrinth, Finish, Blende, Start, Screen und das Level. Da es drei Spiellevels gibt, haben wir für das zweite und dritte Level jeweils ein neues Labyrinth, Finish und natürlich die Levelauswahl programmiert. Die Sprites, die nur für ein spezifisches Level benötigt werden, sind mit der Funktion "hide" dabei so programmiert, dass sie von der Spielfläche scheinbar verschwinden und die Funktionen ausgestellt sind, wenn ein anderes Level gewählt wurde. 
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/111414772/207529351-7198e1c0-3428-4c94-a283-51b433e2d9de.png)
@@ -46,7 +43,7 @@ Dieser Sprite stellt den Spielstart dar. Wird auf den Startbutton geklickt, gela
 
 ![Start](https://user-images.githubusercontent.com/111414772/207540084-52b0c784-2e3b-4339-8a70-e33d45c42f76.png)
 #### Screen
-Dies ist der Hintergrund der Sprites Start und Level und wird bei Auswahl eines Levels versteckt.
+Dies ist der Hintergrund der Sprites Start und Level und wird bei der Auswahl eines Levels versteckt.
 
 ![Screen](https://user-images.githubusercontent.com/111414772/207540457-46f179e5-ff6b-4da2-abdc-e902e2b130ac.png)
 #### Levelauswahl
