@@ -39,5 +39,11 @@ Die Blende ist durch die Funktion "point towards Player 1" und die gleichen Bewe
 
 ![Blende](https://user-images.githubusercontent.com/111414772/207539407-814cd143-6cb2-4306-9018-9e145e0d5c95.png)
 #### Start
+Dieser Sprite stellt den Spielstart dar. Wird auf den Startbutton geklickt, gelangt der Spieler zur Levelauswahl, indem die drei Sprites der Levels erscheinen und der Startsprite versteckt wird.
+
+![Start](https://user-images.githubusercontent.com/111414772/207540084-52b0c784-2e3b-4339-8a70-e33d45c42f76.png)
 #### Screen
+Dies ist der Hintergrund der Sprites Start und Level und wird bei Auswahl eines Levels versteckt.
+
+![Screen](https://user-images.githubusercontent.com/111414772/207540457-46f179e5-ff6b-4da2-abdc-e902e2b130ac.png)
 #### Levelauswahl
