@@ -21,9 +21,10 @@ Insgesamt besteht das Spiel aus drei Levels, die durch zunehmende Schwierigkeits
 Wir haben uns für das Entwickeln unseres Spieles für das Programm Snap! entschieden. Dies ist gut für Anfänger, wie uns, geeignet, da es durch eine einfache Blockstruktur aufgebaut ist. Man entwickelt nicht selber einen Code, sondern arbeitet mit dem vorgegebenen Quellcode, welcher sich in den Blöcken befindet. Somit werden keine besonderen Vorkentnisse benötigt. Zudem ist das Programm durch die Blockstruktur sehr übersichtlich und problemlos den eigenen Ideen anzupassen. Daher können Fehler oder ungewünschte Programmierungen einfach vermieden und schnell behoben werden.
 ## Aufbau und Code
 Für AMAZING MAZE haben wir sieben  verschiedene Sprites erstellt: Player 1, Labyrinth, Finish, Blende, Start, Screen und das Level. Da es drei Spiellevels gibt, haben wir für das zweite und dritte Level jeweils ein neues Labyrinth, Finish und natürlich die Levelauswahl programmiert. Die Sprites, die nur für ein spezifisches Level benötigt werden, sind mit der Funktion "hide" dabei so programmiert, dass sie von der Spielfläche scheinbar verschwinden und die Funktionen ausgestellt sind, wenn ein anderes Level gewählt wurde. 
-
+Zusätzlich haben wir ein Foto für den Hintergrund des Labyrinths eingefügt, um die Spieloptik interessanter und das Spielen schwieriger zu gestalten.
+ 
 ![Screenshot (13)](https://user-images.githubusercontent.com/111414772/207529351-7198e1c0-3428-4c94-a283-51b433e2d9de.png)
-Auf dem Bild sehen Sie die Sprites Labyrinth, Player 1 und Finish. Die Blende, die eigentlich bei jedem Level erscheint, haben wir für das Foto ausgestellt, um das Labyrinth und die anderen Sprites besser zeigen zu können. Zusätzlich haben wir ein Foto für den Hintergrund des Labyrinths eingefügt, um die Spieloptik interessanter und das Spielen schwieriger zu gestalten.
+Auf dem Bild sehen Sie die Sprites Labyrinth, Player 1 und Finish. Die Blende, die eigentlich bei jedem Level erscheint, haben wir für das Foto ausgestellt, um das Labyrinth und die anderen Sprites besser zeigen zu können.
 #### Player 1
 Dieser Sprite stellt die Spielfigur des Spielers dar und wird mit Hilfe der vier Pfeiltasten gesteuert. Zu Beginn jedes Spiels, befindet sich der Sprite im Center des Labyrinths. Damit der Player 1 automatisch zum Startpunkt gelangt, wenn dieser die Labyrinthwände berührt, haben wir einen broadcast mit dem Befehl center erstellt. Diese Funktion gibt es für jeden Level einzeln.
 
