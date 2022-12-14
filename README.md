@@ -20,6 +20,7 @@ Insgesamt besteht das Spiel aus drei Levels, die durch zunehmende Schwierigkeits
 Wir haben uns für das Entwickeln unseres Spieles für das Programm Snap! entschieden. Dies ist gut für Anfänger, wie uns, geeignet, da es durch eine einfache Blockstruktur aufgebaut ist. Man entwickelt nicht selber einen Code, sondern arbeitet mit dem vorgegebenen Quellcode, welcher sich in den Blöcken befindet. Somit werden keine besonderen Vorkentnisse benötigt. Zudem ist das Programm durch die Blockstruktur sehr übersichtlich und problemlos den eigenen Ideen anzupassen. Daher können Fehler oder ungewünschte Programmierungen einfach vermieden und schnell behoben werden.
 ## Aufbau
 ### Sprites
+![Screenshot (13)](https://user-images.githubusercontent.com/111414772/207529351-7198e1c0-3428-4c94-a283-51b433e2d9de.png)
 #### Player 1
 #### Labyrinth
 #### Blende
