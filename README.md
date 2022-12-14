@@ -1,4 +1,4 @@
-# Amazing Maze
+# AMAZING MAZE
 ### Projektseite
 
 von Cosima und Friederike, 12bc
