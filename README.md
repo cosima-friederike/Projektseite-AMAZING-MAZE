@@ -21,13 +21,19 @@ Wir haben uns für das Entwickeln unseres Spieles für das Programm Snap! entsch
 ## Aufbau
 ### Sprites
 Für AMAZING MAZE haben wir sieben  verschiedene Sprites erstellt: Player 1, Labyrinth, Finish, Blende, Start, Screen und das Level. Da es drei Spiellevels gibt, haben wir für das zweite und dritte Level jeweils ein neues Labyrinth, Finish und natürlich die Levelauswahl programmiert. Die Sprites, die nur für ein spezifisches Level benötigt werden, sind mit der Funktion "hide" dabei so programmiert, dass sie von der Spielfläche scheinbar verschwinden und die Funktionen ausgestellt sind, wenn ein anderes Level gewählt wurde. 
+
 ![Screenshot (13)](https://user-images.githubusercontent.com/111414772/207529351-7198e1c0-3428-4c94-a283-51b433e2d9de.png)
 Auf dem Bild sehen Sie die Sprites Labyrinth, Player 1 und Finish. Die Blende, die eigentlich bei jedem Level erscheint, haben wir für das Foto ausgestellt, um das Labyrinth und die anderen Sprites besser zeigen zu können.
 #### Player 1
 Dieser Sprite stellt die Spielfigur des Spielers dar und wird mit Hilfe der vier Pfeiltasten gesteuert. Zu Beginn jedes Spiels, befindet sich der Sprite im Center des Labyrinths. Damit der Player 1 automatisch zum Startpunkt gelangt, wenn dieser die Labyrinthwände berührt, haben wir einen broadcast mit dem Befehl center erstellt. Diese Funktion gibt es für jeden Level einzeln.
+
 ![Unbenannt](https://user-images.githubusercontent.com/111414772/207534250-85f4ca3c-bd1e-4b51-a7f8-0c483cef9315.png)
 #### Labyrinth
+Für die drei Sprites Labyrinth 1, 2 und 3 haben wir jeweils nur ein Kostüm erstellt, Funktionen und Befehle gibt es keine.
 #### Finish
+Der Sprite Finish stellt das Ziel des Spiels dar, das der Player 1 erreichen muss. Für jedes Level mit eigenem Labyrinth gibt es auch ein sperates Ziel. Die Funktionen sind allerdings grundsätzlich übereinstimmend und nur auf das jeweilige Level angepasst. Sobald der Spieler das Ziel erreicht, wird der Befehl finish ausgeführt, das heißt, es werden alle Sprites samt ihrer Funktionen versteckt, die Levelauswahl und der Screen ausgenommen.
+
+![Finish](https://user-images.githubusercontent.com/111414772/207535843-2e8d638b-5697-4a52-86d7-a775c5c93c1d.png)
 #### Blende
 #### Start
 #### Screen
