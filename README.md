@@ -8,6 +8,7 @@ von Cosima und Friederike, 12bc
 [Programm](https://github.com/cosima-friederike/Projektseite/blob/main/README.md#programm)
 
 [Aufbau und Code](https://github.com/cosima-friederike/Projektseite/blob/main/README.md#aufbau)
+  [Sprites](https://github.com/cosima-friederike/Projektseite/blob/main/README.md#sprites)
 
 [Arbeitstagebuch](https://github.com/cosima-friederike/informatik-c-f#informatik-projekt-cosima--friederike)
 
